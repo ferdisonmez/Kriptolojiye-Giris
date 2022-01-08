@@ -1,2 +1,0 @@
-C programlama-->https://www.programmingalgorithms.com/algorithm/md5/
-2-->https://rosettacode.org/wiki/MD5#C
