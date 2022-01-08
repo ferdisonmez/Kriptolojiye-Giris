@@ -1,1 +1,1 @@
-# Kriptolojiye-Giri-
+# Kriptolojiye-Giris
